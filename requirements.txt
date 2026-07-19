@@ -1,0 +1,7 @@
+python-telegram-bot==13.7
+cachetools==4.2.2
+aiohttp==3.9.3
+httpx==0.24.1
+pytz==2023.3.post1
+python-dotenv==1.0.1
+pycryptodome==3.21.0
