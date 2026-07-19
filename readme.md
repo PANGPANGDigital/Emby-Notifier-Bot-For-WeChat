@@ -158,8 +158,4 @@ A: 在企业微信管理后台设置“接收消息”回调 URL 为 `https://<�
 ## 相关项目
 
 - [leolitaly/emby-notifier-bot](https://hub.docker.com/r/leolitaly/emby-notifier-bot) — 原 Telegram 版本
-- [Ccccx159/Emby_Notifier](https://github.com/Ccccx159/Emby_Notifier) — 支持 Telegram / 企业微信 / Bark
 
-## License
-
-MIT
