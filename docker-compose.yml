@@ -5,8 +5,8 @@ services:
     build:
       context: .
       dockerfile: dockerfile
-    image: emby-notifier-bot-wecom:1.0.0
-    container_name: emby-notifier-bot-wecom
+    image: emby-notifier-bot-wechat:1.0.1
+    container_name: emby-notifier-bot-wechat
     environment:
       TZ: "Asia/Shanghai"
       WEBHOOK_PORT: "53211"
