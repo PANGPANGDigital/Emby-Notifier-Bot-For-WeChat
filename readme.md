@@ -1,4 +1,4 @@
-# Emby Notifier Bot — 企业微信应用推送版
+# Emby Notifier Bot — 企业微信应用推送版 V1.0.1
 
 基于 [leolitaly/emby-notifier-bot](https://hub.docker.com/r/leolitaly/emby-notifier-bot) 扩展而来。实时监控 Emby 媒体服务器事件，通过 **Telegram Bot** 和/或 **企业微信自建应用** 推送格式化通知。
 
