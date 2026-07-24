@@ -1,10 +1,10 @@
-# Emby Notifier Bot — 企业微信应用推送版 V1.0.1
+# Emby Notifier Bot — 企业微信应用推送版 V1.0.2
 
 基于 [leolitaly/emby-notifier-bot](https://hub.docker.com/r/leolitaly/emby-notifier-bot) 扩展而来。实时监控 Emby 媒体服务器事件，通过 **Telegram Bot** 和/或 **企业微信自建应用** 推送格式化通知。
 
 ## 核心特性
 
-- **双通道推送**：Telegram 与企业微信可同时启用，互不依赖；只配置其中一个也能正常运行
+- **多通道推送**：Telegram、飞书、企业微信可同时启用，互不依赖；只配置其中一个也能正常运行
 - **事件去重**：基于事件 ID + TTL 缓存，避免重复推送
 - **冷却机制**：播放事件 5 秒冷却、用户登录 5 秒冷却，防止通知轰炸
 - **智能封面**：自动匹配剧集/电影封面，通过 Telegram/WeChat 发送图片消息
